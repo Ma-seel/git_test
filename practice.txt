@@ -1,1 +1,2 @@
-just learning the basics of git and git hub.
+just learning the basics of git and git hub. 
+Hello odin!g
