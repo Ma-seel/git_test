@@ -1,2 +1,2 @@
 just learning the basics of git and git hub. 
-Hello odin!g
+Hello odin!
